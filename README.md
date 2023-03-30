@@ -1,2 +1,2 @@
 # NumberGuessingGame
-A very simple number guessing game console application using C#/.NET.
+A very simple number guessing game. A console application using C#/.NET
